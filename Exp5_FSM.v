@@ -1,3 +1,4 @@
+
 module FSM_moore(clk, rst, x, z);
 input clk, rst, x;
 output z;
